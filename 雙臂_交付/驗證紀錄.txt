@@ -1,0 +1,47 @@
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+PACK_STATUS=0
+REOPEN error=0 warn=0
+QTY 完成_m2_小外徑平墊片_d3p6_d2p2_t0p3.sldprt=80
+QTY 完成_d_arm_phs_m2x6_簡化螺絲.sldprt=88
+QTY 完成_d_arm_fp04-f3.sldprt=6
+QTY 完成_d_arm_fp04-f53.sldprt=2
+QTY 完成_d_arm_ax12a_輸出盤0度.sldprt=2
+QTY 完成_d_arm_平台_2.sldprt=1
+QTY 完成_d_arm_fp04-f4.sldprt=4
+QTY 完成_d_arm_v2_完成_ax-12a_2019.sldprt=2
+QTY 完成_d_arm_v2_完成_吸盤部件.sldprt=2
+QTY 完成_d_arm_v2_完成_fp04-f2 (1).sldprt=2
+QTY 完成_d_arm_中央軸肩墊片_d10_d7p8_d3p2_l7.sldprt=6
+QTY 完成_d_arm_phs_m3x10_簡化螺絲.sldprt=6
+QTY 完成_d_arm_ax12a_輸出盤55度.sldprt=2
+QTY 完成_d_arm_ax12a_輸出盤35度.sldprt=2
+QTY 完成_m2_薄螺帽_af3p9_t1p4.sldprt=56
+QTY 完成_雙臂平台3.sldprt=1
+UNRESOLVED=0 EXTERNAL=0
+TOTAL motors=8 M2=88 M3=6 nuts=56 flatwashers=80 shoulders=6
+SCREW_WASHER_PAIRS=80 MAX_SEAT_ERROR_MM=1.38777878078145E-14
+INTERFERENCES=198 THREAD=142 CLIP_REGIONS=56 CROSS_ARM=0 NUT_COLLISIONS=0
+SAVE=True error=0
+STEP=True error=0
